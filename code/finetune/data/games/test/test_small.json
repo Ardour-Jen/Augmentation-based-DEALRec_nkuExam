@@ -1,0 +1,914 @@
+[
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: PS3 Bluetooth Headset - Urban Camo; NieR - Playstation 3; title_168; Anno 2070;",
+    "output": [
+      "PDP Xbox One Afterglow AG 9+ Prismatic True Wireless Gaming Headset 048-056-NA-WH, White"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as:  My Fitness Coach - Nintendo Wii; Anno 2070; Call of Duty: Black Ops II - PC; PlayStation 4 500GB Console [Old Model][Discontinued]; PowerA DualShock 4 Charging Station for PlayStation 4; Rocksmith 2014 Edition - PlayStation 4;",
+    "output": [
+      "Logitech G602 Lag-Free Wireless Gaming Mouse &ndash; 11 Programmable Buttons, Up to 2500 DPI",
+      "Logitech G910 Orion Spark RGB Mechanical Gaming Keyboard &ndash; 9 Programmable Buttons, Dedicated Media Controls"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Test Drive Unlimited 2 - Xbox 360; Test Drive Unlimited 2 [Download]; Rayman 3D - Nintendo 3DS; SOCOM 4: U.S. Navy Seals - Playstation 3; Dirt 3; Gears of War 3; Battlefield 3 [Download]; God of War Origins Collection - Playstation 3; Richard Burns Rally; Dishonored - PC; Dishonored; BEYOND: Two Souls; Killzone: Shadow Fall (PlayStation 4); Alien: Isolation - PlayStation 4; The Evil Within - PlayStation 4; Resident Evil: Revelations 2 - PlayStation 4; Metal Gear Solid V: The Phantom Pain - PlayStation 4; Steam Controller; Doom - PC; PlayStation VR; Loading Human - PlayStation VR;",
+    "output": [
+      "Resident Evil 7: Biohazard - PS4 Digital Code",
+      "DiRT Rally - PlayStation 4"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Dirt 3; Logitech Gamepad F710; Borderlands 2 - Playstation 3; MLB 12 The Show - Playstation 3; Medal of Honor: Warfighter - PS3; Crysis 3 - Playstation 3; Tomb Raider; Hitman Absolution (Digital Code) - PS3 [Digital Code]; Rayman Legends - PlayStation 4 Standard Edition; Watch Dogs - PlayStation 4; Assassin's Creed Unity Limited Edition - PlayStation 4; The Witcher: Wild Hunt (Comic Bundle) - PlayStation 4; The Witcher 3: Wild Hunt - PlayStation 4; Metal Gear Solid V: The Phantom Pain - PlayStation 4; Tom Clancy's The Division - PlayStation 4; Deus Ex: Mankind Divided - PlayStation 4;",
+    "output": [
+      "Dying Light: The Following - Enhanced Edition - PlayStation 4"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: HITMAN ABSOLUTION (PC); WII THE LEGEND OF ZELDA COLLECTIBLE TIN STARTER KIT; Darksiders II - PC; Hitman: Codename 47; Prince of Persia Trilogy HD - Playstation 3; HORI Splatoon Protector for Nintendo Wii U;",
+    "output": [
+      "GGG0030 Video Game Cartridge Dust Cover 6 Pack: for Nintendo 64 Games (N64 Cart Protector Sleeve Cover or Case)",
+      "Nintendo Selects: The Legend of Zelda Ocarina of Time 3D"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Tactics Ogre: Let Us Cling Together - Sony PSP; Kicks amiibo (Animal Crossing Series); Rover amiibo - Nintendo Wii U; $20 Battle.net Store Gift Card Balance - Blizzard Entertainment [Digital Code] [Online Game Code]; Mafia II; Uncharted 4: A Thief's End - PlayStation 4; Yoshi's Woolly World -  Wii U; Ratchet &amp; Clank - PlayStation 4; Fire Emblem Fates: Conquest - Nintendo 3DS; Fire Emblem Fates: Birthright - Nintendo 3DS Birthright Edition; Yoshi's Woolly World Bundle  - Wii U; Dying Light: The Following - Enhanced Edition - PlayStation 4; Fire Emblem Fates: Map Pack 1 DLC - 3DS [Digital Code]; Fire Emblem Fates: Revelation DLC - 3DS [Digital Code]; Celeste amiibo (Animal Crossing Series); Meta Knight amiibo - Nintendo 3DS; Waddle Dee amiibo - Nintendo 3DS; King Dedede amiibo - Nintendo 3DS; Nintendo Inkling Girl (Alt Color) amiibo - Nintendo Wii U; Sid Meier&rsquo;s Civilization VI Digital Deluxe [Online Game Code]; Deus Ex: Mankind Divided - PlayStation 4; Dishonored 2 - PlayStation 4; Rise of the Tomb Raider: 20 Year Celebration - PlayStation 4; Sid Meier's Civilization VI - PC;",
+    "output": [
+      "Horizon Zero Dawn - PlayStation 4",
+      "Watch Dogs 2 - PlayStation 4",
+      "Watch Dogs 2: Deluxe Edition (Includes Extra Content) - Xbox One",
+      "Persona 5 - Standard Edition - PlayStation 4",
+      "Playstation Plus: 3 Month Membership [Digital Code]",
+      "XCOM 2 - PlayStation 4"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Need for Speed Porsche Unleashed (Jewel Case) - PC; Just Cause 2 - PC; The Witcher Enhanced - PC; Dirt 3; Logitech Gaming Mouse G300 with Nine Programmable Controls (910-002358); Afterglow Universal Wireless Headset - Blue; UFC Undisputed 2010 - Playstation 3; Euro Truck Simulator 2 [Download]; The Witcher 2: Assassins Of Kings Enhanced Edition; Logitech G500s Laser Gaming Mouse with Adjustable Weight Tuning; Dead Space (PlayStation 3); FIFA Soccer 12 - Playstation 3; HORI PlayStation 3 Gem Pad 3 - Onyx Black; Thrustmaster T500RS Racing Wheel - Playstation 3; Sennheiser GAME ONE Gaming Headset - White; Creative Sound BlasterX H5 Professional Analog Gaming Headset; CORSAIR M65 Pro RGB - FPS Gaming Mouse - 12,000 DPI Optical Sensor - Adjustable DPI Sniper Button - Tunable Weights -&nbsp; Black; CORSAIR Sabre - RGB Gaming Mouse - Lightweight Design - 10,000 DPI Optical Sensor - Forward/Back &amp; DPI Preset Buttons; Corsair Gaming SCIMITAR RGB MOBA/MMO Gaming Mouse, Key Slider Mechanical Buttons, 12000 DPI, Yellow;",
+    "output": [
+      "Tesoro Gram Spectrum Low Profile G11SFL Red Mechanical Switch Single Individual Per Key Full Color RGB LED Backlit Illuminated Mechanical Black Gaming Keyboard TS-G11SFL B (RD)",
+      "Thrustmaster HOTAS Warthog Flight Stick PC",
+      "Fallout 4 - PC",
+      "Microsoft Xbox One Controller + Cable for Windows"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: The Legend of Zelda: The Wind Waker (HD Deluxe Set) for Nintendo Wii U;",
+    "output": [
+      "Legend of Zelda Box Set Prima Official Game Guide",
+      "Game Boy Player",
+      "Gamecube Memory Card 251",
+      "The Legend of Zelda: Spirit Tracks",
+      "New Super Mario Bros. Wii",
+      "Super Mario Galaxy 2",
+      "Hyrule Warriors - Nintendo Wii U",
+      "HORI Screen Protective Filter for Nintendo NEW 3DS XL",
+      "PDP New Nintendo 3DS XL Clip Armor - Mario",
+      "New Nintendo 3DS XL Hyrule Edition",
+      "The Legend of Zelda: Twilight Princess HD - Wii U"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Xenoblade Chronicles 3D - New Nintendo 3DS; Animal Crossing: amiibo Festival Bundle - Wii U; Nintendo Selects: The Legend of Zelda Ocarina of Time 3D; Legend of Zelda Box Set Prima Official Game Guide;  Ninokuni;",
+    "output": [
+      "PDP Master Sword Stylus Display"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Legend of Zelda Box Set Prima Official Game Guide;",
+    "output": [
+      "Yoshi amiibo (Super Smash Bros Series)",
+      "HORI Screen Protective Filter for Nintendo NEW 3DS XL",
+      "The Legend of Zelda: Breath of the Wild - Wii U",
+      "Nintendo Selects: The Legend of Zelda: The Wind Waker HD - Wii U"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Datel Action Replay Power Saves Pro - Nintendo 3Ds; Nintendo Wii U GamePad Accessory Set; HORI Splatoon Protector for Nintendo Wii U; The Legend of Zelda: Spirit Tracks; Legend of Zelda Box Set Prima Official Game Guide; The Legend of Zelda:  Phantom Hourglass; HORI Duraflexi Clear Protector for Nintendo NEW 3DS XL;",
+    "output": [
+      "The Legend of Zelda: Breath of the Wild - Wii U"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: The Legend of Zelda: The Wind Waker; Super Bust-A-Move 2; Command &amp; Conquer Generals: Zero Hour; Final Fantasy Tactics; Solomon's Key; Crystalis; The Legend of Zelda; Legend of Zelda Box Set Prima Official Game Guide; Phantasy Star Collection; Shantae: Half-Genie Hero - Risky Beats Edition - PlayStation Vita;",
+    "output": [
+      "Command &amp; Conquer Red Alert"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Legend of Zelda Box Set Prima Official Game Guide; The Legend of Zelda:  Phantom Hourglass;",
+    "output": [
+      "Life is Strange Limited Edition - PlayStation 4",
+      "PDP Spinning Fire Bar Display - Nintendo Wii U",
+      "PDP Master Sword Stylus Display"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Assassin's Creed; Halo 4 - Xbox 360 (Standard Game); Legend of Zelda Box Set Prima Official Game Guide; Steel 4.5mm Screwdriver Security Bit Open SNES N64 GameCube Game Consoles + Genesis Master System Games; The Legend of Zelda: Twilight Princess (Nintendo Selects); Halo: Combat Evolved Anniversary; Nintendo Wii Remote Plus - White; Batman: Arkham Origins - Collector's Edition; HORI Mario Kart 8 Racing Wheel (Luigi) - Nintendo Wii U; Pokemon Omega Ruby and Pokemon Alpha Sapphire Dual Pack - Nintendo 3DS; HORI Mario Kart 8 Racing Wheel Link for Nintendo Wii U and Wii; Assassin's Creed IV: Black Flag - Limited Edition; Pokemon - Red Version; Mega Man Zero Collection - Nintendo DS; Pok&eacute;mon Black Version 2; Super Mario Maker - Nintendo Wii U; Yoshi amiibo (Super Smash Bros Series); Black Nintendo 3DS XL with (Pre-installed) Super Mario 3D Land Game;",
+    "output": [
+      "Assassin's Creed III with Steelbook"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Bubble Bobble - Nintendo NES; Legend of Zelda Box Set Prima Official Game Guide; Rocksmith 2014 Edition - Xbox 360 (Cable Included);",
+    "output": [
+      "Luigi's Mansion - Gamecube",
+      "Earthworm Jim 2"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Final Fantasy X/X-2 HD Remaster Limited Edition; Kirby Triple Deluxe - Nintendo 3DS; Disgaea D2: A Brighter Darkness - Playstation 3; Tales of Xillia 2 - PlayStation 3; Super Smash Bros. - Nintendo 3DS; Super Smash Bros. - Nintendo Wii U; Super Mario Galaxy (Nintendo Selects); Kingdom Hearts HD 2.5 ReMIX - PlayStation 3; Mario Kart 8 - Nintendo Wii U; DuckTales - Remastered PS3 - PlayStation 3; The Wolf Among Us - PlayStation 4; Bloodborne; FINAL FANTASY X/X-2 HD Remaster Limited Edition - PlayStation 4; Shadow of the Colossus - PlayStation 2; Metal Gear Solid V: The Phantom Pain - PlayStation 4; UNCHARTED: The Nathan Drake Collection - PlayStation 4; Until Dawn - PlayStation 4; Yoshi's Woolly World -  Wii U; Valkyria Chronicles Remastered: Launch Edition - PlayStation 4; Uncharted 4: A Thief's End - PlayStation 4; Ratchet &amp; Clank - PlayStation 4; Dark Souls III: Day 1 Edition - PlayStation 4; Shovel Knight - PlayStation 4; Resident Evil 4 - PlayStation 4 Standard Edition; Dragon Quest VII: Fragments of the Forgotten Past - Nintendo 3DS; Dark Souls II: Scholar of the First Sin - PlayStation 4; Alien: Isolation - PlayStation 4; The Last Guardian - PlayStation 4;",
+    "output": [
+      "Dragon Quest VIII: Journey of the Cursed King - Nintendo 3DS",
+      "Final Fantasy XII: The Zodiac Age - PlayStation 4"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Spyro the Dragon; Spyro: Year of the Dragon;",
+    "output": [
+      "USB Microphone for RockBand or Guitar Hero (PS3, Wii, Xbox360)"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: The Sims 3: Late Night - PC/Mac; Mortal Kombat Deception - PlayStation 2; DS, Game Boy Advance SP Rapid Home Travel Charger with IC Chip; USB Microphone for RockBand or Guitar Hero (PS3, Wii, Xbox360); Danger Girl: Playstation 1;",
+    "output": [
+      "The Sims 4 [Online Game Code]"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: USB Microphone for RockBand or Guitar Hero (PS3, Wii, Xbox360); Xbox One Play and Charge Kit; Microsoft Xbox Wireless Adapter for Windows 10; Corsair Gaming K95 Mechanical Keyboard with Back-Lit White LED, Cherry MX Red (CH-9000081-NA);",
+    "output": [
+      "Razer Firefly Chroma Hard: Micro-Textured Finish - Non-Slip Rubber Base - Powered by Razer Chroma - Hard Gaming Mouse Mat - RZ02-01350100-R3U1"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Def Jam Fight for New York; The Warriors; NBA Street, Vol. 2 (Platinum Hits) - Xbox; Sleeping Dogs: Definitive Edition - Xbox One; USB Microphone for RockBand or Guitar Hero (PS3, Wii, Xbox360); 50 Cent: Bulletproof - Xbox; 50 Cent: Blood on the Sand; L.A. Noire: The Complete Edition -Xbox 360; Lego: Marvel Super Heroes, XBOX 360; Gears of War (2-Disc Edition) -Xbox 360; Gears of War 3;",
+    "output": [
+      "Grand Theft Auto: San Andreas - Xbox 360"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Madden NFL 08 - Sony PSP; Wii Fit; Dotop Nunchuck Controller for Nintendo Wii Video Game Black; USB Microphone for RockBand or Guitar Hero (PS3, Wii, Xbox360);  Band Hero featuring Taylor Swift;",
+    "output": [
+      "Wii U Fit Meter",
+      "Wii U Fit Meter Green &amp; White (Bulk Packaging)"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: USB Microphone for RockBand or Guitar Hero (PS3, Wii, Xbox360); Xbox 360 Wireless Controller - Glossy Black; The Black Eyed Peas Experience - Nintendo Wii; Turok: Dinosaur Hunter; Quake 64; IDS Home Interchangeable Power Charging Adapter and Cable for Nintendo Wii U GamePad;",
+    "output": [
+      "Minecraft: Wii U Edition - Wii U Standard Edition",
+      "Quake II",
+      "Perfect Dark",
+      "Nintendo 64 Expansion Pak",
+      "South Park",
+      "Duke Nukem 64",
+      "Duke Nukem: Zero Hour"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Trenro Dual PlayStation/PlayStation 2 to PC USB Controller Adapter; Xbox 360 Data Transfer Cable; Tom Clancy's Splinter Cell Blacklist - PC; Logitech G230 Stereo Gaming Headset &ndash; On-Cable Controls &ndash; Surround Sound Audio &ndash; Sports-Performance Ear Pads &ndash; Rotating Ear Cups &ndash; Light Weight Design; Mayflash Nintendo GameCube Controller Adapter for Wii/Wii U; Mario Kart 8 - Nintendo Wii U; Nyko Uboost - 2X Power for up to 10 Hours Playtime for Wii U GamePad; Metal Gear Solid 4: Guns of the Patriots; Destiny - Standard Edition - PlayStation 3 [Digital Code]; Nintendo 3DS XL Duraflexi Protector - Red; Universal AV and S Video Cable; HORI Battle Pad for Wii U (Luigi Version) with Turbo - Nintendo Wii U; Gamecube Controller Connection Tap for Wii U; YTTL&reg; New Touch Screen Repair Replacement Part For Wii U Gamepad+FREE GIFT; Call of Duty: Ghosts Prestige Edition - PlayStation 3; Xbox One 1TB Console - Limited Edition Halo 5: Guardians Bundle; GOOOD PS4 Designer Skin Decal for PlayStation 4 Console System and PS4 Wireless Dualshock Controller - Metal Gear Solid V Limited; Wii U Pro Wireless and Rechargeable Controller (Midnight Black) Includes Charging Cable by Kommendable; Bayonetta 2 (Single Disc) - Wii U;",
+    "output": [
+      "Kingdom Hearts HD 2.8 Final Chapter Prologue - PlayStation 4"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Tom Clancy's H.A.W.X 2; Homefront [Download]; Medal of Honor: Warfighter - PC; Zelotes 5500 DPI 7 Button LED Optical USB Wired Gaming Mouse Mice for Pro Gamer; Need for Speed: The Run [Download]; Tom Clancy's Splinter Cell: Conviction;  Need for Speed; Grand Theft Auto IV; Call of Duty: Modern Warfare 3 - PC; Call of Duty: Ghosts [Online Game Code]; H.A.W.X. - PC DVD-Rom; Wanted: Weapons of Fate - PC; Spec Ops: The Line - PC;",
+    "output": [
+      "Ace Combat Zero: The Belkan War"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: PlayStation 2X Network Adaptor; GLOW in DARK Playstation 3 PS3 Wireless Game Controller Anti-Slip Silicone Case Skin Protector Cover (Many Colors Available); Silicone Protective Case for Controller (Black); Rock Candy Blueberry Boom; Redragon M901 Gaming Mouse Wired, [Programmable] MMO RGB LED Mice, 24000 DPI, Laser High Precision Sensor, Weight Tuning Set, 18 Buttons for Windows PC Games - Black; SADES Stereo 7.1 Surround Pro USB Gaming Headset with Mic Headband Headphone (White);",
+    "output": [
+      "Gaming Mouse,Mictchz 4800 DPI Optical USB Wired Professional Gaming Mouse Programmable 10 Buttons RGB Breathing LED Mice for mac PC (Black)",
+      "Mayflash Md Mega Drive Genesis Controller Adapter for PC USB",
+      "Retro Bit Universal 3 in 1 AC Adapter NES/SNES/GENESIS"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Silicone Protective Case for Controller (Black); NEW 16MB Memory Card for Wii (Console GameCube);",
+    "output": [
+      "Battalion Wars - Gamecube"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Halo - Xbox; Left 4 Dead - Game of the Year Edition -Xbox 360; Xbox 360 4GB Console; Silicone Protective Case for Controller (Black); Left 4 Dead 2 - Xbox 360; Mcbazel RCA Toslink Optical Audio Cable Adapter for Xbox 360 &amp; Xbox 360 Slim; PS3 250GB Amazon Exclusive Family Entertainment Bundle; Insten 2 Pack Gaming Chat Live Headset With Microphone Compatible With XBOX 360 / Xbox 360 Slim Wireless Controller M; Xbox 360 Live Vision Camera; Halo: Combat Evolved Anniversary; Dishonored: Game of the Year Edition; Fight Night Champion - Xbox 360;",
+    "output": [
+      "Xbox One Play and Charge Kit"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: KontrolFreek FPS Vipr; Silicone Protective Case for Controller (Black); Silverhill Tools Tamper Resistant T8 Screwdriver for Xbox 360 Controller; The Elder Scrolls IV: Oblivion; Transformers: Fall of Cybertron - Xbox 360; Mad Catz R.A.T. 7 Albino Edition Professional Gaming Mouse; GAEMS G155 Sentry Personal Gaming Environment; 8GB PlayStation Vita Memory Card;",
+    "output": [
+      "PDP Talon Media Remote Control for Xbox One, TV, Blu-ray &amp; Streaming Media",
+      "Nintendo Pokemon Go Plus"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Silicone Protective Case for Controller (Black); Nyko Intercooler Stand - Cooling Attachment with Short USB Power Cord for Xbox One; Sid Meier's Civilization V: The Complete Edition - PC;",
+    "output": [
+      "Full Parts Replacement Housing Shell Pack for Nintendo Gameboy Advance SP GBA SP(Dark Blue)(Battery is Not included)"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Silicone Protective Case for Controller (Black); ASTRO Gaming - A50 Wireless Headset [2013 model]; Kinect Sensor TV Mounting Clip - Xbox 360; Pritect Sensor Cover for Xbox 360 and Windows Kinect - Privacy, Protection, Dust; PDP Kinect TV Mount - Xbox One;",
+    "output": [
+      "ASTRO Gaming MixAmp Pro TR for Xbox One - White"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Microsoft Xbox 360 Elite 120GB Console Bundle; BlazBlue: Continuum Shift EXTEND Limited Edition - Xbox 360; Silicone Protective Case for Controller (Black); Mega Man amiibo - Japan Import (Super Smash Bros Series); Guilty Gear Xrd SIGN Limited Edition - PlayStation 3; Jigglypuff amiibo (Super Smash Bros Series); DODONPACHI SAIDAIOUJOU (PLATINUM COLLECTION); Teslagrad - PlayStation 3;",
+    "output": [
+      "Odin Sphere Leifthrasir - PlayStation 3 Standard Edition",
+      "Marvel&rsquo;s Spider-Man - PlayStation 4"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Silicone Protective Case for Controller (Black);",
+    "output": [
+      "Uncharted 4: A Thief's End - PlayStation 4",
+      "The Last of Us Remastered - PlayStation 4",
+      "KontrolFreek Performance Grips for Xbox One Controller",
+      "CronusMax Plus Cross Cover Gaming Adapter for PS4 PS3 Xbox One Xbox 360 Windows PC",
+      "HyperX Cloud Revolver Gaming Headset for PC &amp; PS4 (HX-HSCR-BK/NA)",
+      "Call Of Duty: Infinite Warfare - Legacy Edition - PS4 [Digital Code]"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Limited Edition Chrome Silver Modded Xbox 360 Rapid Fire Controller with Red LED and Special D-pad for COD Ghost MW3 Black Ops 2 [Xbox 360]; Dead or Alive 4; Virtua Fighter 5 Online - Xbox 360; IL-2 Sturmovik: Birds of Prey; Silicone Protective Case for Controller (Black); Xbox 360 Wireless Speed Wheel; Turtle Beach - Ear Force Stealth 420X Fully Wireless Gaming Headset - Xbox One (Discontinued by Manufacturer);",
+    "output": [
+      "SmartOmni Ipega Wireless Telescopic Bluetooth Controller Ipega PG-9023 Joystick Gamepad for Android iPad iOS"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Dotop Sony Playstation 2 PS2 64MB Memory Card; Metropolismania; Metropolismania 2 - PlayStation 2;",
+    "output": [
+      "Mario Party 5"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Star Wars Battlefront - PlayStation 2; Titanfall - Xbox 360; Dotop Sony Playstation 2 PS2 64MB Memory Card; Monster Hunter 4 Ultimate Standard Edition - Nintendo 3DS; Capcom Classics Collection Reloaded - Sony PSP; HDE Charging Cable for PS3 Controllers USB Charging Cord Compatible with Wireless DualShock 3 Controllers; Monster Hunter - PlayStation 2; Alien: Isolation - Xbox One; Xbox One Wireless Controller and Play &amp; Charge Kit;  PlayStation Portable 3000 Core Pack System - Piano Black; Destiny - Standard Edition - Xbox One; Xbox One 1TB Console - 3 Games Holiday Bundle (Gears of War: Ultimate Edition + Rare Replay + Ori and the Blind Forest);",
+    "output": [
+      "Monster Hunter Freedom - Sony PSP"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Dotop Sony Playstation 2 PS2 64MB Memory Card;  Generic New Wired Infrared Sensor Bar for Nintendo Wii Controller; EyePet with Camera - Sony PSP; Nintendo DSi XL Red Bundle with Mario Kart;",
+    "output": [
+      "Twisted Metal: Head On, Extra Twisted Edition"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Supreme Commander - PC; Dotop Sony Playstation 2 PS2 64MB Memory Card; Mayflash GameCube Controller Adapter for Wii U, PC USB and Switch, 4 Port; Lowpricenice Premium High Resolution Component AV Cable for Playstation 3 PS3, Playstation 2 Ps2;",
+    "output": [
+      "Warhammer 40,000 Dawn of War Winter Assault Expansion Pack - PC",
+      "Warhammer 40,000 Dawn of War Game of the Year - PC"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Twisted Lands: Shadow Town [Mac Download];  The Legend of Crystal Valley [Download]; Mystery of Mortlake Mansion [Download]; Committed: Mystery at Shady Pines [Download]; Nancy Drew: Secrets Can Kill REMASTERED [Download]; Nancy Drew: Trail of the Twister [Download]; Nancy Drew: The White Wolf of Icicle Creek - PC; Nancy Drew: The Phantom of Venice - PC; Big Kahuna Reef [Download]; Clive Barker Undying; Volume 1 Adventure Collection; Nancy Drew: Danger by Design - PC; Gray Matter [Download]; Secret Files 2: Puritas Cordis - PC; Lost Horizon [Download]; 6-Feet RCA AV Audio/Video Cable for PlayStation and PlayStation 2 - Bulk Packaging; Dotop Sony Playstation 2 PS2 64MB Memory Card; Secret Files 3 [Online Game Code]; Royal Envoy: Campaign for the Crown [Download]; Royal Envoy 3 [Download];",
+    "output": [
+      "Return To Mysterious Island - PC"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Dotop Sony Playstation 2 PS2 64MB Memory Card; PowerA Wired Controller For Xbox One - White;",
+    "output": [
+      "DEEBOL 46-Key Wired Professional Singlehanded backlit Gaming Keyboard Mini Gaming Keypad Ergonomic Gamepad With 3-Color LED Backlight",
+      "KINGTOP Wireless Gaming Mouse Rechargeable 2.4G Professional Computer Optical Game Mice with Adjustable 2500DPI for Gamer PC Laptop Desktop Notebook",
+      "PlayStation 4 Elder Scrolls Online: Tamriel Unlimited Spanish/English Edition"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as:  Microsoft Flight Simulator X; Logitech PlayStation 2 Cordless Action Controller; Dotop Sony Playstation 2 PS2 64MB Memory Card; 60GB Hard Disk Drive for Xbox 360 Slim;",
+    "output": [
+      "Medal of Honor Frontline - PlayStation 2",
+      "Thrustmaster T-Flight Hotas X Flight Stick"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Simpsons Road Rage Platinum Hits - Xbox; Crash Twinsanity - Xbox; Sims 2 - Xbox; The Sims 2 (Special DVD Edition); Trenro Wired Controller USB Breakaway Cable Cord; Playstation 2 Console - Black; Dotop Sony Playstation 2 PS2 64MB Memory Card; The Sims - Xbox; Wall Charger for Nintendo DS Lite (Lifetime Warranty, Bulk Packaging); The Sims 3 - Nintendo DS; Disney/Pixar's Monsters, Inc.; Female PC USB to XBOX Controller Port Cable BRAND NEW; Toy Story 2; Spider-Man; Disney/Pixar's Monsters Inc: Scream Team; Madagascar - PlayStation 2; Over the Hedge - PlayStation 2; Decapattack - Sega Genesis; Logitech Gamepad F310; Sly Cooper And The Thievius Raccoonus - PlayStation 2; The Sims Life Stories - PC; The Sims Pet Stories DVD - PC; The Sims 2 - PlayStation 2; The Sims 2: Bon Voyage - PC CD-Rom (Expansion Pack);",
+    "output": [
+      "The Sims 2 - PC"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Dotop Sony Playstation 2 PS2 64MB Memory Card; PlayStation Vita Protective Film - Two Pack; Nintendo 3DS Portable Gaming Console - Purple; Tearaway; Nintendo 3DS XL Duraflexi Protector - Red; DanganRonpa: Trigger Happy Havoc - PlayStation Vita; Etrian Odyssey 2 Untold: The Fafnir Knight - Nintendo 3DS; PS Vita Slim - Lime Green / White - Wi-fi (PCH-2000ZA13);",
+    "output": [
+      "Nintendo 3DS XL Battery Replacement SPR-003 (NOT COMPATIBLE WITH REGULAR 3DS)"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Dotop Sony Playstation 2 PS2 64MB Memory Card; Castlevania: Symphony of the Night; Gauntlet: Dark Legacy; Baldur's Gate: Dark Alliance 2 - PlayStation 2; Puzzle Quest: Challenge Of The Warlords - PlayStation 2;",
+    "output": [
+      "Champions of Norrath - PlayStation 2",
+      "Champions Return to Arms - PlayStation 2",
+      "Star Wars Knights of the Old Republic II: The Sith Lords",
+      "PS2 Controller Extension Cable - 6 Foot (Bulk Packaging)"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Yu-Gi-Oh GX: The Beginning of Destiny - PlayStation 2; Dark Stone; GameShark Video Game Enhancer [Playstation]; Bards Tale - PlayStation 2; Datel Max Playstation 2 Action Replay; Xploder Cheat System BRAND NEW for Nintendo Game Boy Advance SP GBA SP; World Championship Poker - PlayStation 2; Jade Cocoon 2; Ys: The Ark of Napishtim; GameShark 2; Game Genie Video Game Enhancer; Dragon Quest IV: Chapters of the Chosen - Nintendo DS; Dragon Quest V: Hand of the Heavenly Bride - Nintendo DS; Logitech Gamepad F310; Hyperkin Retron 3 Video Game System for NES/SNES/GENESIS; Game Genie - Sega Genesis; Arc the Lad: End of Darkness - PlayStation 2; ProHT USB Wired Gaming Keyboard (70117), 110 Keys Basic Gaming Keyboard for PC Laptop Desktop, Windows 7/8 / XP/Vista, Plug and Play, Black; Austor Travel Carrying Protective Case for Nintendo 2DS,Black; Sharkoon Tactix Gaming Keyboard (000SKTK); Audio Video RCA Composite AV Video Game Selector Switch for XBox, XBOX 360, PS1, PS2, PS3, Gamecube, Wii, DVD, VCR;",
+    "output": [
+      "Sonic Ultimate Genesis Collection - Playstation 3",
+      "Hyperkin &quot;GN6&quot; Premium Genesis USB Controller for PC/ Mac",
+      "Xbox DVD Movie Playback Kit",
+      "BlackStone: Magic &amp; Steel",
+      "Namco Museum 50th Anniversary - Xbox",
+      "PICTEK Gaming Mouse Wired [7200 DPI] [Programmable] [Breathing Light] Ergonomic Game USB Computer Mice RGB Gamer Desktop Laptop PC Gaming Mouse, 7 Buttons for Windows 7/8/10/XP Vista Linux, Black"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Audio Video RCA Composite AV Video Game Selector Switch for XBox, XBOX 360, PS1, PS2, PS3, Gamecube, Wii, DVD, VCR; Ori and the Blind Forest: Definitive Edition - Xbox One; NHL 16 - Xbox One;",
+    "output": [
+      "BioShock: The Collection - Xbox One",
+      "Max: The Curse of Brotherhood - Xbox One Digital Code"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Audio Video RCA Composite AV Video Game Selector Switch for XBox, XBOX 360, PS1, PS2, PS3, Gamecube, Wii, DVD, VCR; Zumba Fitness World Party - Xbox 360; Thief - Xbox 360;",
+    "output": [
+      "Battlefield 1 - Xbox One",
+      "CirKa Controller for N64 (Gold)"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Audio Video RCA Composite AV Video Game Selector Switch for XBox, XBOX 360, PS1, PS2, PS3, Gamecube, Wii, DVD, VCR; [Upgraded Version]Ultra-comfort White &amp; Red Wireless Bluetooth Ps3 Controller for the Playstation 3 Console By Avalid; Resident Evil 3: Nemesis - Gamecube; Dragonpad Wii to HDMI Converter Output Video Audio Adapter - Supports All Wii Display Modes to 720P / 1080P HDTV &amp; Monitor.;",
+    "output": [
+      "Fallout 4 - Xbox One",
+      "Resident Evil 7 Biohazard - Xbox One"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Splatterhouse - Xbox 360; Shenmue; Audio Video RCA Composite AV Video Game Selector Switch for XBox, XBOX 360, PS1, PS2, PS3, Gamecube, Wii, DVD, VCR; Sega Dreamcast Console; Batman: The Video Game; Xbox 360 Data Transfer Cable; Teenage Mutant Ninja Turtles: Fall of the Foot Clan; Teenage Mutant Ninja Turles II: Back From the Sewers; The Three Stooges; Teenage Mutant Ninja Turtles 1989 Classic Arcade [Online Game Code]; Metropolis Street Racer; Nintendo 64 System - Video Game Console; Super Nintendo NES System - Mini Redesign;",
+    "output": [
+      "House of the Dead OVERKILL - Extended Cut - Playstation 3",
+      "Gamecube N64 S-Video and AV Cable"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: PS3 Remote Control; McFarlane's Evil Prophecy - PlayStation 2; 2 Pack - Gator Crunch Wii Gamecube 6FT Extension Cable / Cord (Lifetime Warranty, Bulk packaging); Godzilla Unleashed - PlayStation 2;",
+    "output": [
+      "Matricom G-Pad BX Wireless USB Rechargeable Bluetooth Pro Game Pad Joystick (Samsung Gear VR and G-Box Compatible!)"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: 2 Pack - Gator Crunch Wii Gamecube 6FT Extension Cable / Cord (Lifetime Warranty, Bulk packaging); Final Fantasy XIV: A Realm Reborn - PC; Logitech G500s Laser Gaming Mouse with Adjustable Weight Tuning;",
+    "output": [
+      "Gamilys Controller Extension Cable for PlayStation",
+      "Gen 2 x Extension Cable for Super Nintendo SNES Controller"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: 2 Pack - Gator Crunch Wii Gamecube 6FT Extension Cable / Cord (Lifetime Warranty, Bulk packaging); Nintendo 64 Rumble Pak (NUS-013); Nintendo 64 Controller - Original Grey; 3 in 1 Magic Joy Box (PS2/PS/GC/XBOX to PC USB Adapter); Resident Evil Archives: Resident Evil Zero; Resident Evil Archives: Resident Evil; No More Heroes: Heroes' Paradise - Playstation 3; Elder Scrolls V: Skyrim Collector's Edition - PC;",
+    "output": [
+      "6ft Gray AV Composite and S-Video Cable Compatible With Microsoft Xbox 360 / Xbox 360 Slim"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Super Smash Bros. Brawl; Myst 10th Anniversary DVD Edition - PC/Mac; Wii Fit Plus with Balance Board; Heroes of Might and Magic V Hammers of Fate Expansion Pack - PC; Just Dance 2 - Nintendo Wii; 2 Pack - Gator Crunch Wii Gamecube 6FT Extension Cable / Cord (Lifetime Warranty, Bulk packaging); New Super Mario Bros. Wii; SimCity 4 Deluxe Edition - PC; Wii Remote Controller; Nintendo Nunchuk Controller - White; Supreme Commander - PC; Lego Star Wars: The Complete Saga - Nintendo Wii; Supreme Commander: Forged Alliance - PC; Pikmin 2 (Nintendo Selects) - Nintendo Wii; Wii Nunchuk Controller - White; Havit Gaming Mouse, 2800DPI 6 Buttons LED Optical Wired Mouse, Black;",
+    "output": [
+      "Buffalo iBuffalo Classic USB Gamepad for PC",
+      "ZD-V+ USB Wired Gaming Controller Gamepad For PC/Laptop Computer(Windows XP/7/8/10) &amp; PS3 &amp; Android &amp; Steam - [Black]"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Xbox 360 Quick Charge Kit; Xbox 360 Black Play and Charge Kit; Game Boy Advance SP Replacement Battery Pack for GBA SP; DS, Game Boy Advance SP Rapid Home Travel Charger with IC Chip; NCAA Football 10 - Xbox 360; Game Boy Micro AC Wall Charger Micro Power Adapter;",
+    "output": [
+      "Gaming Headset with Mic for PC,PS4,Xbox One,Over-ear Headphones with Volume Control LED Light Cool Style Stereo,Noise Reduction for Laptops,Smartphone,Computer (Black &amp; Blue)"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Infinite Space - Nintendo DS; 32GB PlayStation Vita Memory Card; Game Boy Micro AC Wall Charger Micro Power Adapter;",
+    "output": [
+      "Super Game Boy",
+      "Tomee NES USB Controller for PC/Mac"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Need for Speed:  Underground Rivals - Sony PSP; Call of Duty: Black Ops III - Standard Edition - PlayStation 4; Razer Naga Left-Handed - Ergonomic MMO Gaming Mouse with 12 Programmable Thumb Buttons - 8,200 Adjustible DPI; Razer Naga Epic Chroma MMO Gaming Mouse - 19 Buttons - 8,200 - Wireless; Game Boy Micro AC Wall Charger Micro Power Adapter; Pokemon Super Mystery Dungeon - Nintendo 3DS Standard Edition;",
+    "output": [
+      "Pokemon - Red Version"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: PlayStation Portable Core (PSP 1000); Nintendo 64 Controller - Black; Game Boy Micro AC Wall Charger Micro Power Adapter; NVIDIA SHIELD Controller (2015); Steam Controller; Nintendo New 3DS - Pokemon 20th Anniversary Edition [Discontinued];",
+    "output": [
+      "CORSAIR K70 LUX RGB Mechanical Gaming Keyboard - USB Passthrough &amp; Media Controls - Linear &amp; Quiet - Cherry MX Red - RGB LED Backlit",
+      "AIRSUNNY 28 in 1 Black Protective Plastic Video Games Memory Card Storage Case for Nintendo 3DS",
+      "CORSAIR Scimitar Pro RGB - MMO Gaming Mouse - 16,000 DPI Optical Sensor - 12 Programmable Side Buttons - Yellow"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Teenage Mutant Ninja Turtles; LEGO The Hobbit - Nintendo 3DS; Lego The Hobbit - Xbox One; LEGO The Hobbit - PlayStation Vita; LEGO The Hobbit - Xbox 360; LEGO The Hobbit - PlayStation 4; LEGO The Hobbit - PlayStation 3; LEGO Batman 3: Beyond Gotham - Wii U; LEGO Batman 3: Beyond Gotham - Nintendo 3DS; LEGO Batman 3: Beyond Gotham - Xbox 360; LEGO Batman 3: Beyond Gotham - PlayStation Vita; LEGO Batman 3: Beyond Gotham - Xbox One; LEGO Batman 3: Beyond Gotham - PlayStation 4; LEGO&nbsp;Batman&nbsp;3: Beyond Gotham [Online Game Code]; PlayStation All-Stars Battle Royale PS Vita - PS Vita [Digital Code]; Kingdom Hearts HD 2.5 ReMIX - PlayStation 3; The LEGO Movie Videogame - PlayStation 3; Two Worlds 2 - Xbox 360; Two Worlds Collector's Edition -Xbox 360; Disney Universe - Playstation 3; Ultimate Marvel Vs. Capcom 3 - Playstation 3; Teenage Mutant Ninja Turtles: Danger of the OOZE - Xbox 360; Rise of the Argonauts - Xbox 360; LEGO Marvel's Avengers - Xbox 360; Teenage Mutant Ninja Turtles: Mutants in Manhattan - Xbox 360; Tomb Raider Game of the Year;",
+    "output": [
+      "Afro Samurai - Playstation 3",
+      "Brutal Legend",
+      "X-Men Origins: Wolverine - Uncaged Edition - Playstation 3",
+      "Persona 5 - PlayStation 3 Standard Edition",
+      "Red Dead Redemption - Playstation 3",
+      "Red Dead Redemption"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Marvel Vs. Capcom 2; Street Fighter III 3rd Strike; Marvel vs. Capcom: Clash of Super Heroes; Marvel vs. Capcom 2; Sega Dreamcast Console; Sega Dreamcast Controller; Visual Memory Unit - Blue; Marvel Super Heroes; Street Fighter Collection; Batman Begins - PlayStation 2; Devil May Cry 3 - PlayStation 2; Resident Evil 4 - PlayStation 2; PlayStation Portable (PSP) Value Pack; Street Fighter Alpha 3 Max - Sony PSP; PlayStation Portable 2000 System - Piano Black; Mortal Kombat:  Deception (Premium Pack); Sony PS3 Street Fighter IV FightStick Tournament Edition; Need for Speed Rivals (Complete Edition) - PlayStation 4; Turtle Beach - Ear Force PX22 Universal Amplified Gaming Headset - PS3, Xbox 360, PC; Turtle Beach - Ear Force PX22  - Universal Amplified Gaming Headset- PS3, Xbox 360, PC - FFP [Old Version]; Turtle Beach - Ear Force PlayStation 4 Upgrade Kit for Turtle Beach Headset Compatibility - PS4 (Discontinued by Manufacturer); Razer Atrox For Xbox One: Fully Mod-Capable - Sanwa Joystick and Buttons - Internal Storage Compartment - Tournament Arcade Stick for Xbox One; Mad Catz Street Fighter V Arcade FightStick TES+ for PlayStation4 and PlayStation3; CronusMax Plus Cross Cover Gaming Adapter for PS4 PS3 Xbox One Xbox 360 Windows PC;",
+    "output": [
+      "HORI Fighting Edge Arcade Fighting Stick for PlayStation 4 Officially Licensed by Sony"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Mega Man Legends; Official Wii Zapper with Link's Crossbow Training; Deus Ex Human Revolution: Director's Cut - Nintendo Wii U; ION GO PAD Folding Computer Game Controller; Hyrule Warriors - Nintendo Wii U; LEGO Star Wars III The Clone Wars - Playstation 3; Logitech G700s Rechargeable Gaming Mouse; The Legend of Zelda: Majora's Mask 3D; Mayflash GameCube Controller Adapter for Wii U, PC USB and Switch, 4 Port; Tom Clancy's Splinter Cell Blacklist - Nintendo Wii U; Xbox 360 Black Play and Charge Kit; FINAL FANTASY XIV: Heavensward - Windows; Steam Controller; Xbox One Play and Charge Kit; Microsoft Xbox One Controller + Wireless Adapter for Windows 10; Rare Replay - Xbox One Digital Code; G810 Orion Spectrum RGB Mechanical Gaming Keyboard &ndash; Easy-Access Media Control, Backlit Multicolor LED, Romer-G Mechanical Key Switches;",
+    "output": [
+      "Dishonored 2 - Xbox One"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Yoshi's Island DS; Zelda II: The Adventure of Link; Faxanadu; Bionic Commando - Nintendo NES; Crystalis; Startropics; Mega Man 7 - Nintendo Super NES; The Magic of Scheherazade; Willow - Nintendo NES; MEGA MAN 9 [Online Game Code]; The Lone Ranger - Nintendo NES; Disney's Aladdin; Star Tropics II: Zoda's Revenge; Disney's Aladdin; Kid Icarus; Castlevania Bloodlines; The Lion King; MTV's Beavis and Butthead;  Terranigma; Mega Man X8 - PlayStation 2; Secret of Mana; Parasite Eve; Silent Hill 4:  The Room - PlayStation 2; Donkey Kong 64 - Nintendo 64; Conker's Bad Fur Day; Earthbound; Shadow of the Colossus - PlayStation 2; Jackal - Nintendo NES; Castlevania: Aria of Sorrow; Silent Hill: Homecoming - Playstation 3; Castlevania: Harmony of Dissonance; Paper Mario: The Thousand-Year Door; Castlevania: Portrait of Ruin; Resident Evil Zero - Gamecube; Luigi's Mansion - Gamecube; Super Princess Peach; Dead Space (PlayStation 3);  Castlevania; Teenage Mutant Ninja Turtles; Milon's Secret Castle; The Guardian Legend; Little Nemo: The Dream Master; Monster Party - Nintendo NES; Duck Tales; Clash at Demonhead - Nintendo NES; Dragon Warrior IV - Nintendo NES; Yo! Noid; Street Fighter 2010: The Final Fight;",
+    "output": [
+      "Battletoads",
+      "Solomon's Key",
+      "Chip 'n Dale: Rescue Rangers",
+      "Adventure Island - Nintendo NES",
+      "Adventure Island II",
+      "Earthworm Jim 2",
+      "Earthworm Jim"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Sony Playstation 3 160GB System; HORI PlayStation 3 Final Fantasy XIII-2 Face Plate; title_168; Xbox360 Fighting Stick VX; PS3 Racing Wheel Controller; Sid Meier's Civilization V: Gods and Kings - PC; Just Dance 2014 - Xbox 360; Panzer Dragoon - Sega Saturn; XCOM: Enemy Within; Afterglow Wired Controller for Xbox 360 - Green; Green Lantern: Rise of the Manhunters - Xbox 360;  Split / Second - Xbox 360; Turtle Beach Ear Force Z11 Amplified Gaming Headset for PC and Mobile Devices; Front Mission Evolved - Playstation 3; Jurassic Park - The Game - Xbox 360; Panzer Dragoon Saga; The Banner Saga [Online Game Code]; Dynamite Cop; Virtua Racing; Mechwarrior 2: 31st Century Combat: Arcade Combat Edition; Treasures of Deep - PlayStation; Power Stone; Destiny - Standard Edition - PlayStation 3 [Digital Code]; Creative Sound BlasterX H5 Professional Analog Gaming Headset; Combaterwing Gaming Mouse 4800 DPI Aluminum Base, 10 Buttons, RGB LED Professional Programmable USB Wired Gaming Mice for PC Laptops Computer; Taito Legends 2 - PlayStation 2; Gunblade NY: Special Air Assault Force and L.A Machineguns: Rage of the Machines - Arcade Hits Pack - Nintendo Wii (Special); Overwatch - Origins Edition - PlayStation 4;",
+    "output": [
+      "Genuine Sega Original Saturn Controller Model # Mk-80116",
+      "Disney's Aladdin",
+      "Deadly Creatures - Nintendo Wii",
+      "Binary Domain - Playstation 3",
+      "Playstation 2 (SCPH-70000) Charcoal Black Console (Japanese Import)",
+      "XCOM 2 - PlayStation 4",
+      "NieR: Automata - Playstation 4",
+      "Horizon Zero Dawn - PlayStation 4",
+      "Trauma Team - Nintendo Wii",
+      "Zone of the Enders: The 2nd Runner"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Tekken - PlayStation; Crash Bandicoot; Spyro the Dragon; Frogger; Tekken 6 - Xbox 360; Spyro 2: Ripto's Rage; Spyro: Year of the Dragon; Q-Ball: Billiards Master; Lion King 2: Simba's Mighty Adventure; Playstation 2 (SCPH-70000) Charcoal Black Console (Japanese Import); Mortal Kombat Armageddon - PlayStation 2; komekuma 2.4g Wireless Game Pad Joysticks Gaming Controller Joypad Gamepad Console for Sony Playstation 2 Dual Shock Dual Includes;",
+    "output": [
+      "Street Fighter: The Movie - PlayStation (Collector's)"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Rival Turf - Nintendo Super NES; 007 The World Is Not Enough PS; Metroid Prime 3: Corruption; Mega Man 7 - Nintendo Super NES; Mickey Mania: The Timeless Adventures Of Mickey Mouse; Metroid Fusion; The Legend of Zelda: Ocarina of Time; Golden Sun: Dark Dawn; Dr. Mario; Super Double Dragon; Mario Golf; Metal Gear Solid: VR Missions; Gradius; Metal Gear Solid 2: Sons of Liberty; Prince of Persia: The Sands of Time - PlayStation 2; Watch Dogs - Nintendo Wii U; Mega Man 5; Super Mario Sunshine; Castlevania; Crystalis; Final Fantasy: Mystic Quest; Sonic Adventure - Sega Dreamcast; Mighty Morphin Power Rangers; Animal Crossing: Wild World; Yoshi Touch and Go; Gauntlet; Super Mario Bros. 2; Toy Story 2; Road Runner's Death Valley Rally - Nintendo Super NES; Fester's Quest; The Simpsons: Bart vs. the Space Mutants; Friday the 13th; Sunset Riders; Kingdom Hearts; Parasite Eve II; Freshly Picked ~ Tingle's Rosy Rupeeland (European Edition); The Legend of Zelda: Collector's Edition (Zelda / Zelda II: The Adventure of Link / Ocarina of Time / Majora's Mask); Marvel vs. Capcom 3: Fate of Two Worlds - Playstation 3; Lagoon; Yoshi's Woolly World - Wii U [Digital Code]; The Walking Dead: Season 2 - PlayStation 3;",
+    "output": [
+      "Metal Gear Solid 4: Guns of the Patriots",
+      "Gradius V",
+      "Castlevania Lords of Shadow Collection",
+      "Metal Gear Solid 3 Subsistence",
+      "Legend of Zelda The Wind Waker - Gamecube",
+      "Zelda II: The Adventure of Link (Classic NES Series)",
+      "Duck Tales 2",
+      "Bomberman 64",
+      "Battletoads",
+      "Power Rangers Time Force",
+      "Star Fox Zero + Star Fox Guard - Nintendo Wii U",
+      "The Little Mermaid",
+      "The Legend of Zelda: Tri Force Heroes - 3DS [Digital Code]",
+      "Tiny Toon Adventures: Bab's Big Break",
+      "Sonic the Hedgehog - Xbox 360",
+      "DuckTales: Remastered (Digital Copy Only)",
+      "Otomedius Excellent Special Edition -Xbox 360",
+      "Yu-Gi-Oh 7 Trials to Glory",
+      "Duck Tales",
+      "Silent Hill",
+      "Sega Genesis Collection - PlayStation 2",
+      "Banjo-Kazooie",
+      "Star Fox",
+      "Doom - Sega Saturn",
+      "Frogger",
+      "Super Mario Kart",
+      "Resident Evil Zero - Gamecube",
+      "Street Fighter Alpha 2",
+      "Nintendo N64 Console W/ One Controller"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Dreamcast Retro Bit S-AV Cable; Dissidia Final Fantasy - Sony PSP; Gears of War 3; Diablo III: Collector's Edition; Pokemon X; Dark Souls Collector's Edition - Playstation 3; Darksiders II - Xbox 360; Silent Hill HD Collection - Xbox 360; Resident Evil: Operation Raccoon City Special Edition -Xbox 360; Pikmin 2 (Nintendo Selects) - Nintendo Wii; Shin Megami Tensei IV - Nintendo 3DS; eForCity&reg; Premium HDTV HD AV Component Cable Compatible With SONY PSP 3000; Final Fantasy Anthology: Collector's Package; Star Ocean: First Departure - Sony PSP; Phantasy Star Portable - Sony PSP; Aliens vs Predator - Playstation 3; Army Corps of Hell - PlayStation Vita; Shin Megami Tensei: Persona 3 Portable - Sony PSP; The Legend of Heroes: Trails in the Sky - Sony PSP; Nyko Game Case for Vita - PlayStation Vita; Dark Souls II Collector's Edition PlayStation 3; Bravely Default - Nintendo 3DS; FINAL FANTASY X|X-2 HD Remaster - PlayStation Vita; Diablo III: Reaper of Souls Collector's Edition; HORI Screen Protective Filter for PlayStation Vita 2000 Series; PS Vita 2000 Silicone Skin; Brave Story: New Traveler - Sony PSP; Undead Knights - Sony PSP; Fate/Extra Limited Edition -;",
+    "output": [
+      "HORI Retro Mario Hard Pouch for NEW 3DS XL and Nintendo 3DS XL",
+      "Tomee 256KB Memory Pak for N64",
+      "Cyber Gadget Rubber Coating Grip 2 Black For Nintendo New 3DS LL XL"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Breath of Fire III; Final Fantasy X / X-2 HD Remaster Collector's Edition;",
+    "output": [
+      "Final Fantasy XV - PlayStation 4",
+      "The Elder Scrolls V: Skyrim Special Edition - PS4 [Digital Code]",
+      "World of Final Fantasy - PlayStation 4"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Breath of Fire III; PS2 Wireless Controller;",
+    "output": [
+      "Resident Evil 4 - PlayStation 2",
+      "Sly Cooper And The Thievius Raccoonus - PlayStation 2"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Tekken 2; Resident Evil: Director's Cut; CTR: Crash Team Racing; Tomee Zapp Gun for NES; Super Mario Bros. / Duck Hunt; Total Carnage - Nintendo Super NES; Need for Speed 3: Hot Pursuit;",
+    "output": [
+      "Resident Evil 3: Nemesis"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Fatal Frame; Chrono Cross - PlayStation; Resident Evil 4 - PlayStation 2; The Darkness - Playstation 3; Tekken 2; Tekken 3; Tekken 4 - PlayStation 2; Fear Effect; PlayStation 3 Dualshock 3 Wireless Controller (Black); God of War: Collection - Playstation 3; Soul Calibur IV - Playstation 3; Max Payne 2: The Fall of Max Payne - PlayStation 2; Dark Delusion: Deception 3; Atelier Meruru: The Apprentice of Arland - Playstation 3; Dark Angel; Max Payne 3 - Playstation 3; Alias; Sonic Mega Collection Plus; Enchanted Arms - Playstation 3; Alpha Protocol - Playstation 3; Record of Agarest War 2 - Playstation 3; The Evil Within - Playstation 3; Parasite Eve II; Resident Evil 2; Dino Crisis; PlayStation 2 8MB Memory Card (Yellow); Grand Theft Auto Vice City; Playstation 2 Memory Card 8MB 2PK Red/Blue; 6-Feet RCA AV Audio/Video Cable for PlayStation and PlayStation 2 - Bulk Packaging; JINHEZO Game Cable For Playstation PS3 AV Cable (Bulk Packaging); Silent Hill; Galerians; Tokyo Twilight Ghost Hunters - PlayStation 3;  PlayStation 3 Dualshock 3 Wireless Controller (Satin Silver); Grand Theft Auto San Andreas Greatest Hits - PlayStation 2; Ninety-Nine Nights - Xbox 360; The Last Remnant -Xbox 360;",
+    "output": [
+      "Lost Odyssey - Xbox 360",
+      "Mass Effect - Xbox 360",
+      "Bloody Roar  3 - PlayStation 2",
+      "Mass Effect 2 Collector's Edition -Xbox 360",
+      "Mass Effect 3 Collector's Edition -Xbox 360",
+      "PlayStation 2 Dualshock Controller Black",
+      "Persona 5 - PlayStation 3 Standard Edition",
+      "True Crime Streets of LA - PlayStation 2",
+      "Rumble Roses - PlayStation 2",
+      "True Crime: New York City - PlayStation 2",
+      " Tales of Vesperia - Xbox 360",
+      " N3II",
+      "Batman: Arkham Origins - Playstation 3",
+      "Resident Evil 2",
+      "Ar tonelico: Melody of Elemia",
+      "Mana Khemia 2: Fall Of Alchemy - PlayStation 2",
+      "TNP PS3 Component AV Cable (6 Feet) Premium High Resolution HDTV Component RCA Audio Video Cable for Sony PlayStation 3 PS3 and PlayStation 2 PS2 Gaming Console [Playstation 3]",
+      "Sony Computer Entertainment HDMI Cable - Playstation 3",
+      "Alpha Protocol - Xbox 360",
+      "Back to the Future: The Game - 30th Anniversary - Xbox 360",
+      "Tales from the Borderlands - PlayStation 3"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Clock Tower; Legacy of Kain: Soul Reaver; Grand Theft Auto III; Fatal Frame III: The Tormented - PlayStation 2; Doom; Wu Tang: Shaolin Style; Nightmare Creatures; Legacy of Kain: Soul Reaver 2; Fatal Frame; Manhunt; Siren - PlayStation 2; Kuon; Fatal Frame 2 - Xbox; Silent Hill; Destroy All Humans 2; Destroy All Humans - Xbox; Batman: Arkham Knight - PlayStation 4 [Digital Code]; Fairly Oddparents: Breakin' Da Rules; Batman Begins - Xbox; Zero: Tsukihami no Kamen [Japan Import]; Tomb Raider; Silent Hill 2; X-Men: Mutant Academy 2; Grand Theft Auto Vice City; Star Wars Episode III Revenge of the Sith - PlayStation 2; Grand Theft Auto: San Andreas - PlayStation 2; Batman: Arkham Origins - Xbox 360; Tenchu: Stealth Assassins; Tenchu 2; X-Men Origins: Wolverine - Uncaged Edition - Xbox 360; Harry Potter and the Sorcerer's Stone - PC; Destroy All Humans 2; Apocalypse; Bloodborne; Too Human - Xbox 360; Star Wars the Force Unleashed - Xbox 360; Brutal Legend - Xbox 360; Splatterhouse - Xbox 360; MediEvil; Spider-Man; Wild 9; The Evil Within - PlayStation 4; Doom - PlayStation 4;",
+    "output": [
+      "Grand Theft Auto: Liberty City Stories - PlayStation 2",
+      "Rise of the Tomb Raider: 20 Year Celebration - PlayStation 4",
+      "The Amazing Spider-Man",
+      "Doom 3",
+      "Spider-Man 2 - PlayStation 2"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Breath of Fire 4; Dino Crisis; Silent Hill; Paper Mario: Sticker Star; Silent Hill 3; Mario Party: Island Tour; Dino Crisis 2; Tomb Raider; Devil May Cry HD Collection - Playstation 3; The Legend of Zelda: Majora's Mask 3D; Breath of Fire: Dragon Quarter - PlayStation 2; Resident Evil: Code Veronica X - PlayStation 2; Resident Evil: Outbreak - PlayStation 2;",
+    "output": [
+      "Super Mario Galaxy 2",
+      "Command and Conquer The Ultimate Collection",
+      "Official Nintendo Wii Sensor Bar Black Wired",
+      "Super Mario Galaxy",
+      "Final Fantasy Origins Final Fantasy I &amp; II Remastered Editions - PlayStation",
+      "Final Fantasy III",
+      "Final Fantasy: The 4 Heroes of Light",
+      "Resident Evil 2",
+      "Final Fantasy Anthology - PlayStation",
+      "Super Paper Mario",
+      "Final Fantasy X X-2 HD Remaster  Standard Edition - PlayStation 3",
+      "Mario Party Star Rush - Nintendo 3DS"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Xbox 360 LIVE 1600 Points; Tomb Raider; Sony Playstation Memory Card; Harry Potter and the Prisoner of Azkaban - PlayStation 2; Guitar Hero (Game Only); Sony Playstation 1 COMPLETE System Console PS1 PSX; Guitar Hero Encore: Rocks the 80's - PlayStation 2; The Mummy; Pirates of the Caribbean The Legend of Jack Sparrow - PlayStation 2; Shrek The Third - Nintendo Wii; Murdered: Soul Suspect X360; Rise of the Tomb Raider - Xbox 360 - Xbox 360 Standard Edition;",
+    "output": [
+      "Alice: Madness Returns - Xbox 360"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Tomb Raider; Shadowgate - Nintendo NES; Drakkhen; Willow - Nintendo NES;",
+    "output": [
+      "Shadowgate 64"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Mega Man X Command Mission - PlayStation 2; Metroid Fusion; Metroid (Classic NES Series); Tomb Raider; Gameboy Advance link cable; Soul Calibur IV - Xbox 360; Ultimate Cheats for Pokemon DS/DSI/LITE/XL; Pac Man World 3 - Nintendo DS; Nintendo DS Pokemon Platinum Version; Batman: Arkham City for Playstation 3; Mega Man X8 - PlayStation 2; Legaia 2: Duel Saga; PlayStation Eye;",
+    "output": [
+      "GameSir G3w USB Wired PC Game Controller Dual Shock Joystick Gamepad for PC Windows 7/8/8.1/10 &amp; Android Smartphone/Tablet/TV BOX &amp; PS3"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Rollercoaster Tycoon 3 - PC; KMD Xbox Breakaway Cable; Fighting Force;  PlayStation Portable 3000 Core Pack System - Piano Black; Logitech Gamepad F710; Matricom G-Pad EX Wireless USB Rechargeable Pro Game Pad Joystick w/3D Feedback; Wipeout Pulse - Sony PSP; Ace Attorney Investigations: Miles Edgeworth; I Spy Castle - Nintendo DS; Phoenix Wright Ace Attorney: Trials and Tribulations - Nintendo DS; Playstation 3 Energizer Power &amp; Play Charging System; PlayStation 2 Dualshock Controller Black; Hyperkin &quot;GN6&quot; Premium Controller for Genesis; Samurai Champloo: Sidetracked;",
+    "output": [
+      "Shin Megami Tensei: Persona 3 FES - PlayStation 2"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: PlayStation 2 Console (Slim Line Version 1); Tomb Raider II; WWF Warzone; Tomb Raider III: Adventures of Lara Croft; Crash Bandicoot; Spyro the Dragon; Destruction Derby 2; Tomb Raider: The Last Revelation; Grand Theft Auto 2; Mortal Kombat Trilogy; JINHEZO AV Cable for Nintendo N64 / GameCube; PlayStation 2 Dualshock Controller Black; Sony Twisted Metal: Black - Playstation 2; Sony Playstation Memory Card; Simpsons Hit and Run - Gamecube; Star Wars: Rebel Strike - Rogue Squadron III; Grand Theft Auto: San Andreas - PlayStation 2; ESPN NFL 2K5 - PlayStation 2 (Limited);  Gioteck PS3 Dual L / R Triggers Controller Attachments for Playstation 3; Playstation 3 Energizer Power &amp; Play Charging System; PlayStation 3 Horizontal Cooling Power Station; Jet Moto 2; Cool Boarders 2; Tom Clancy's Rainbow Six; Microsoft Xbox 360 Component HD AV Cable;",
+    "output": [
+      "Sony PlayStation Vita Wi-Fi (Certified Refurbished)"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Rush 'n Attack; Rambo - Nintendo NES; Jackal - Nintendo NES; The Legend of Zelda; Ninja Gaiden; Castlevania; Uncharted 4: A Thief's End - PlayStation 4; Mortal Kombat; Faxanadu; Tom Clancy's Rainbow Six; Star Wars: Rogue Squadron; The Legend of Zelda: Ocarina of Time; Mario Kart 64; Super Smash Bros.; Nintendo 64 Controller Pak; Nintendo 64 Controller - Original Grey; Doom 64;",
+    "output": [
+      "N64 Replacement Joystick GameCube Style, High Sensitivity",
+      "Killer Instinct Gold",
+      "Super Smash Bros Melee",
+      "Soul Calibur II - Gamecube",
+      "Nintendo Super Smash Bros. White Classic Gamecube Controller",
+      "Halo 3 - Xbox 360",
+      "Mario Kart: Double Dash",
+      "Prince of Persia The Two Thrones - Gamecube"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Gran Turismo 6; PlayStation Vita Memory Card 64GB (PCH-Z641J); Super Smash Bros. - Nintendo Wii U; Halo Reach; Pythons Vertical Stand for PS4 Console-Black; Godzilla PS3 [Japan Import];  Bayonetta - Xbox 360; Generic Orange Spice Controller Pad for Gamecube and Wii; Call of Duty: Ghosts - Nintendo Wii U; Godzilla - PlayStation 4; MLB 15: The Show (10th Anniversary Edition); Sega Dreamcast System - Video Game Console (Black Sega Sports Edition); Forza Motorsport 6 - Xbox One; Star Wars: Shadows of the Empire; Jurassic: The Hunted - Playstation 3; Lost Planet 2 - Playstation 3; Turok: Dinosaur Hunter; Turok - Xbox 360; Turok 2: Seeds of Evil; Call of Duty: Black Ops III - Standard Edition - Xbox One; PDP Afterglow Prismatic Wired Controller for Xbox One - Xbox One; Gears of War: Ultimate Edition - Xbox One; Zacro 13ft PS4 Controller Charging Cable USB Cord (3.3 Ft); Star Wars: Rogue Squadron; Nyko Universal Power Cord - Replacement Power Cord for PlayStation 4 and PlayStation 4 Slim;",
+    "output": [
+      "PlayStation 4 500GB Console - Star Wars Battlefront Limited Edition Bundle [Discontinued]"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: SOCOM: US Navy Seals; Star Wars: Rogue Squadron; Soul Calibur 2 - PlayStation 2; Star Wars Battlefront II - PlayStation 2; Battlefield: Bad Company - Playstation 3; Sonic Ultimate Genesis Collection - Playstation 3; Resident Evil 6 - Playstation 3; Hydra Performance Wireless Controller Compatible with Sony Playstation PS2, Black; HDE Charging Cable for PS3 Controllers USB Charging Cord Compatible with Wireless DualShock 3 Controllers; Nintendo Super Smash Bros. White Classic Gamecube Controller; Nintendo Super Smash Bros. Black Classic Gamecube Controller; Defender; Kill Switch; Battlefield 2 Modern Combat - PlayStation 2; Battlefield 2 - PC; Tom Clancy's Ghost Recon:  Advanced Warfighter - PlayStation 2; SOCOM U.S. Navy Seals: Combined Assault - PlayStation 2; Tom Clancy's Ghost Recon Advanced Warfighter;  Metal Gear Solid 4; Operation Flashpoint: Dragon Rising - Playstation 3; PS3 Power Cord; PlayStation 3 Dualshock 3 Wireless Controller (Black); Star Wars: Starfighter; Brothers In Arms: Hell's Highway - Playstation 3; Trenro AV to RCA Cable Compatible with Playstation/PS2/PS3/PSX; PlayStation 2 Dualshock Controller Black; PlayStation 2 Memory Card (8MB); Dark Cloud; PlayStation 2 Console Slim PS2; Metal Gear Solid V: The Phantom Pain - PlayStation 3 Day One Edition;",
+    "output": [
+      "Star Wars Rogue Squadron II: Rogue Leader",
+      "Composite AV Cable for PS3, Fosmon RCA / Composite AV Cable Audio Video for Sony PlayStation 1, PS2, PS3 Slim",
+      "HDE Component AV Cable for PS2 Console HDTV Ready Premium Audio Video Replacement Cable for Sony PlayStation 2 Video Game Console (6 ft)",
+      "Tom Clancy's Splinter Cell - PlayStation 2 (Jewel case)",
+      "Terminator: Salvation - Playstation 3",
+      "Tom Clancy's H.A.W.X 2 - Playstation 3",
+      "HDE 64 MB Memory Card For Sony PlayStation PS2 Gaming Console High Capacity Save Data Storage (2 pack)",
+      "Disgaea D2: A Brighter Darkness - Playstation 3",
+      "Metal Gear Solid: The Essential Collection",
+      "The Legend of Zelda: TriForce Heroes - 3DS",
+      "Medal of Honor: Warfighter - PC"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Cruis'n USA; Super Star Wars; Super Star Wars: Return of the Jedi - Nintendo Super NES; Halo 3 - Xbox 360; Super Star Wars: The Empire Strikes Back; Tom Clancy's Ghost Recon Advanced Warfighter 2 - Xbox 360; Assassin's Creed; Tom Clancy's Splinter Cell Conviction; Tom Clancy End War - Xbox 360; Spore Hero - Nintendo Wii; Assassin's Creed II: Platinum Hits Edition; Lego Star Wars III: the Clone Wars - Nintendo Wii; Star Wars Episode 1: Battle for Naboo; Sonic the Hedgehog 2; Star Wars: Shadows of the Empire; Sonic the Hedgehog; FIFA 14 - Playstation 3; Unreal Tournament; Spider-Man/X-Men: Arcade's Revenge; God of War - PlayStation 2; Halo Wars - Xbox 360 (Platinum Hits); Skate or Die - Nintendo NES; The Elder Scrolls IV: Shivering Isles - Xbox 360; Marvel Ultimate Alliance 2 - Nintendo Wii; The Elder Scrolls III: Morrowind; Half Life 2 - Xbox; Twisted Metal III; CirKa Controller for N64 (Red); CirKa Controller for N64 (Green); Assassin's Creed IV Black Flag - Xbox 360; Xbox One Media Remote;",
+    "output": [
+      "Disney Infinity 3.0 Edition: Star Wars Darth Vader Figure",
+      "Disney Infinity 3.0 Edition: Star Wars Han Solo Figure",
+      "Disney Infinity 3.0 Edition: Star Wars Darth Maul Figure"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: The Legend of Zelda: The Wind Waker; Halo 2 - Xbox; Metal Gear Solid: The Twin Snakes; Star Wars: Rebel Strike - Rogue Squadron III; Onimusha 3: Demon Siege; Tales of Symphonia - Gamecube; Fable - Best of Platinum - Xbox (Platinum); Mercenaries - Xbox; Jak 3 - PlayStation 2; Metroid Prime 2: Echoes; Mario Power Tennis; Star Wars Battlefront II - Xbox; The Legend of Zelda: Twilight Princess; Final Fantasy XII; Professor Layton and the Curious Village - Nintendo DS; Infinite Undiscovery - Xbox 360;  Halo 3; Golden Sun: Dark Dawn; Ghost Trick: Phantom Detective - Nintendo DS; Star Wars Episode 1: Battle for Naboo; Time Splitters 2; James Bond 007 Nightfire - Gamecube; Star Wars Jedi Knight II: Jedi Outcast; Metal Arms Glitch in System; Psi-Ops: The Mindgate Conspiracy; Prince of Persia: Sands of Time; Tom Clancy's Splinter Cell Pandora Tomorrow - Xbox; Tom Clancy's Ghost Recon 2: Summit Strike; Metal Gear Solid 3 Subsistence; Kingdoms of Amalur: Reckoning - PS3 [Digital Code]; Uncharted: Drake's Fortune - Playstation 3; Uncharted 2: Among Thieves - Playstation 3; The Walking Dead Game of the Year - PlayStation 3; Marvel: Ultimate Alliance 2; Batman: Arkham City for Playstation 3;",
+    "output": [
+      "Resistance: Fall of Man - Playstation 3",
+      "Resistance 2 - Playstation 3",
+      "Resistance 3 - Playstation 3",
+      "Dead Space 2"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Resident Evil - PlayStation; Blood Omen: Legacy of Kain; Diablo III; Resident Evil 4 - Gamecube; Resident Evil Code Veronica X - Gamecube; Final Fantasy II; Final Fantasy III; Earthbound; Ken Griffey Jr. Presents Major League Baseball; Star Wars: Rogue Squadron; StarTech.com COMP2VGA Composite and S-Video to VGA Video Converter for Computer Monitors; Tecmo Super Bowl III: Final Edition; NBA Jam: Tournament Edition; Final Fantasy VII; Metroid Prime; Sony Playstation Controller - Gray (Non-Dualshock);",
+    "output": [
+      "Perfect Dark"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Twisted Metal III; Vigilante 8: 2nd Offense; Vigilante 8; Nintendo 64 AC Power Adapter; Retro-Bit Nintendo 64 Classic USB Enabled Controller (Wired) PC and MAC, Grey - Nintendo 64; Baldur's Gate: Dark Alliance 2 - PlayStation 2;",
+    "output": [
+      "Final Fantasy II - Sony PSP",
+      "Resistance: Retribution"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Conquer; StarCraft 64; Quake 64; Resident Evil Zero - Gamecube; GunGriffon Blaze - PlayStation 2; Nintendo 64 Expansion Pak; Perfect Dark; Wolfenstein 3D - Nintendo Super NES; Dino Crisis;  Halo 3; Tactics Ogre: The Knight of Lodis; Fallout 2; Warhammer 40,000 Dawn of War Game of the Year - PC; Resident Evil 3: Nemesis - Gamecube; Brute Force; BloodRayne; Dead Space Extraction; Cabela's Dangerous Hunts 2009; Army Men Sarge's Heroes; The Walking Dead: Survival Instinct - Nintendo Wii U; Nintendo Wii U Console - 32GB Black Deluxe Set; Reign of Fire; Wing Commander IV: The Price of Freedom; Tropico 5 - Xbox 360; Sid Meier's Civilization: Beyond Earth [Online Game Code]; Xbox Digital Av Cable- Black; Spartan: Total Warrior - Xbox; 16GB PlayStation Vita Memory Card; Watch Dogs - Nintendo Wii U; Sudden Strike: Complete Anthology; PlayStation 4 500GB Console - Call of Duty Black Ops III Bundle [Discontinued]; Mad Max - PlayStation 4; inFAMOUS First Light - PS4 [Digital Code]; Republique - PlayStation 4; Fatal Frame: Maiden of Black Water - Wii U [Digital Code]; Mirror's Edge Catalyst - PlayStation 4; Nobunaga's Ambition: Sphere of Influence - PlayStation 4; XCOM 2 - PlayStation 4;",
+    "output": [
+      "True Crime: New York City",
+      "Tom Clancy's Splinter Cell Double Agent - Gamecube",
+      "Mass Effect Andromeda - Pre-load - PS4 Digital Code",
+      "Tom Clancy's The Division - PlayStation 4"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Unreal (Jewel Case) - PC; Unreal 2: The Awakening; Doom 3; Grand Theft Auto: San Andreas ( DVD-ROM ) - PC; Half-Life 2: Game of the Year Edition - PC; Marvel vs. Capcom 2; Doom 64; Doom 2 (Jewel Case) - PC; Final Doom - PC; Painkiller - PC; Painkiller Expansion: Battle Out of Hell - PC; Half-Life: Game of the Year Edition - PC; Counter-Strike: Source - PC; Team Fortress 2 - PC (Collector's); PlayStation 2 Console Slim PS2; Insten Replacement Controller Adapter compatible with PS2 to PS3 Playstation Controller Adapter USB Converter; Doom - PC;",
+    "output": [
+      "Resident Evil 7 Biohazard - Xbox One"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: The Sims 3 - Xbox 360; Urbz: Sims in the City - Xbox;",
+    "output": [
+      "Dotop XBOX Controller for Microsoft XBOX Black",
+      "Nintendo 64 System - Video Game Console - Donkey Kong Bundle",
+      "Blood Rayne - Xbox",
+      "Kung Fu Chaos",
+      "Prince of Persia: The Sands of Time",
+      "GoldenEye 007",
+      "Bomberman Hero",
+      "Perfect Dark",
+      "Pokemon Snap",
+      "Pok&eacute;mon Omega Ruby - Nintendo 3DS"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: 1080 Snowboarding; WWF Wrestlemania 2000; WWF: No Mercy; Lego Indiana Jones: The Original Adventures; Mortal Kombat II; The Death and Return of Superman - Nintendo Super NES; Jigglypuff amiibo (Super Smash Bros Series);",
+    "output": [
+      "Gears of War 4 - Xbox One",
+      "Overwatch - Origins Edition - Xbox One",
+      "Dying Light: The Following - Enhanced Edition - Xbox One"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Final Fantasy VII; Final Fantasy X; Monster Rancher 4; Okami - PlayStation 2; Radiata Stories - PlayStation 2; Lunar: Silver Star Harmony Limited Edition -Sony PSP; Lunar: Silver Star Story Complete; Bioworld Nintendo The Legend of Zelda Ocarina of Time 3D Navi Necklace;",
+    "output": [
+      "Zelda amiibo - Japan Import (Super Smash Bros Series)"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Pac Man 2: the New Adventures; Sonic the Hedgehog 2; Sonic the Hedgehog; Sonic &amp; Knuckles; Sonic Spinball GEN; Sonic 3D Blast;  Sonic the Hedgehog 3; Dr. Robotnik's Mean Bean Machine; Trauma Center: Second Opinion - Nintendo Wii; Beautiful Katamari - Xbox 360; Aaahh!! Real Monsters;",
+    "output": [
+      "Vigilante 8",
+      "The Legend of Zelda: Ocarina of Time",
+      "GoldenEye 007",
+      "Diddy Kong Racing",
+      "Nintendo 64 Controller Pak"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: PlayStation 4 Black Friday Bundle - Grand Theft Auto V and The Last of Us Remastered; GoldenEye 007; Ortz&reg; Analog Thumb Grip Stick Covers for PS4 / Xbox 360 / Xbox One / PS3 / PS2 - Made of Silicone Rubber - Best Caps for Gaming - Remote Skins for Controller - Blue &amp; Black Set (2 Pairs Total);",
+    "output": [
+      "Tom Clancy&rsquo;s Ghost Recon Wildlands - PlayStation 4"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: GoldenEye 007; Kirby 64: The Crystal Shards; Kirby Air Ride; Kirby's Dream Collection: Special Edition; Kirby Squeak Squad; Kirby Mass Attack; Kirby Canvas Curse; Mario Party 2; 007 The World is Not Enough; Mario Party 3; Nintendo 3DS - Flame Red; Super Mario Advance; Mario Party 5; Mario Kart 8 - Nintendo Wii U; Kirby Triple Deluxe - Nintendo 3DS; Mario Party 7; Mario Party 6;  The Legendary Starfy; Super Smash Bros. - Nintendo Wii U; Super Smash Bros. - Nintendo 3DS; Mario Party 10 + Mario amiibo Bundle - Wii U; Super Smash Bros. GameCube Adapter for Wii U; Star Fox Command; Super Princess Peach; Super Mario Maker - Nintendo Wii U; Pokemon Super Mystery Dungeon - Nintendo 3DS Standard Edition; Nintendo Wii Remote Plus - White;",
+    "output": [
+      "The Legend of Zelda: Breath of the Wild - Wii U"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: The Legend of Zelda: Skyward Sword with Music CD; The Legend of Zelda: Ocarina of Time; Hyrule Warriors - Nintendo Wii U; Nintendo Wii U Console 8GB Basic Set - White; Dragon Age Inquisition - Standard Edition - PlayStation 4;",
+    "output": [
+      "Sleeping Dogs: Definitive Edition- PlayStation 4",
+      "UNCHARTED: The Nathan Drake Collection - PlayStation 4",
+      "Tomb Raider: Definitive Edition - PlayStation 4",
+      "Disney Infinity:Star Wars Starter Pack - 3.0 Edition - PS4",
+      "The Elder Scrolls V: Skyrim Special Edition - PS4 [Digital Code]"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Killzone: Shadow Fall (PlayStation 4); Tomb Raider: Definitive Edition - PlayStation 4; Mortal Kombat: Komplete Edition - Playstation 3; Resident Evil 4 - PlayStation 2; Dying Light - PlayStation 4; Fighting Force; Metal Gear Solid; Final Fantasy X; Buyee 128MB Memory Card for Sony Playstation 2; Headhunter (Playstation 2); GoldenEye 007; Resident Evil Deadly Silence - Nintendo DS; Playstation Wired Stereo Gaming Chat Bass Dual Ear Headset Headphone with Microphone Boom Mic for Sony PlayStation 4 PS4; Max Payne - PC;",
+    "output": [
+      "Soldier of Fortune (Gold Edition)",
+      "Fatal Frame",
+      "Cold Winter - PlayStation 2",
+      "Cursed Mountain - Nintendo Wii",
+      "Silent Hill 2",
+      "Watch Dogs - PlayStation 4",
+      "Tom Clancy&rsquo;s Ghost Recon Wildlands - PlayStation 4"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Action Replay for Nintendo 3DS, DSI, DS Lite and DS - DSi Yellow; The Legend of Zelda: Ocarina of Time; Chrono Trigger;",
+    "output": [
+      "Pok&eacute;mon Red Version - 3DS [Digital Code]"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: NASCAR 99; NASCAR Racing 2003 Season - PC; Call of Duty 2 - Xbox 360; Xbox One Chat Headset; Coromose Controller Battery Door Shell Cover Replacement Part for Xbox One (Black); Spyro the Dragon; Spyro 2: Ripto's Rage; Spyro: Year of the Dragon; NASCAR Thunder 2002; The Legend of Zelda: Ocarina of Time; Sony Playstation DualShock Controller - Gray; Tarzan; Spec Ops: Stealth Patrol; Thrillville - PlayStation 2;",
+    "output": [
+      "Nintendo 64 Controller Pak"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Eastvita Full 1080p 720P HD Nintendo Wii To HDMI Converter Output 480i Upscaling Adapter; The Legend of Zelda: Ocarina of Time; AFUNTA G9000 Stereo Gaming Headset Compatible Mac, PS4, PC, Xbox One Controller, Laptop, Noise Cancelling Over Ear Headphones with Mic, LED Light, Bass Surround, Soft Memory Earmuffs -Blue; LZ Charging Dock with Batteries for Nitendo Wii Remotes; The Legend of Zelda: Skyward Sword; Wii Motion Plus Adapter for Original Nintendo Wii Remote Controller(White,Set...; Official Nintendo Wii Sensor Bar Black Wired;",
+    "output": [
+      " Yoga - Nintendo Wii"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Call of Duty: Advanced Warfare Atlas Pro Edition - Xbox One; GoldenEye 007; Mario Kart 64; Super Smash Bros.; BattleTanx: Global Assault; Diddy Kong Racing; Mario Party 2;",
+    "output": [
+      "Resident Evil 7 Biohazard - Xbox One",
+      "Fallout 4 - PlayStation 4"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Xbox 360 LIVE 1600 Points; Tritton TRIAX-180 AX 180 Stereo Gaming Headset for Xbox 360 and Playtation 3; XCM X8 Unlock Tool Set for Xbox 360 Slim; Call of Duty: Black Ops II [Hardened Edition] - Xbox 360; Microsoft XBOX 360 E 250GB Console; Call of Duty: Ghosts Hardened Edition - Xbox 360; Forza Motorsport 5 Day One Edition; Halo 2 Multiplayer Map Pack - Xbox; Turtle Beach - Ear Force PX22 Universal Amplified Gaming Headset - PS3, Xbox 360, PC; Turtle Beach - Ear Force PX22  - Universal Amplified Gaming Headset- PS3, Xbox 360, PC - FFP [Old Version]; GoldenEye 007; ASTRO Gaming A50 Xbox One - Black (2014 model); SCUF FPS Adjustable Trigger &amp; Pro Grip Combo Kit - Xbox One Compatible (Black); Turtle Beach Ear Force X42 Wireless Dolby Surround Sound Gaming Headset (Certified Refurbished);",
+    "output": [
+      "Grand Theft Auto V",
+      "GUNNAR Gaming and Computer Eyewear /Intercept, Amber tint - patented lens, reduce digital eye strain, block 65% of harmful blue light"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: GoldenEye 007; Tecmo Bowl - Nintendo NES; Logitech G230 Stereo Gaming Headset &ndash; On-Cable Controls &ndash; Surround Sound Audio &ndash; Sports-Performance Ear Pads &ndash; Rotating Ear Cups &ndash; Light Weight Design; Thermaltake Tt e SPORTS Poseidon Z Blue Switches with 4-Level Brightness Blue LED Mechanical Gaming Keyboard KB-PIZ-KLBLUS-06; Rocksmith 2014 Edition - PC/Mac (Cable Included);",
+    "output": [
+      "Rock Band 4 Pro-Cymbals Expansion Drum Kit"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: GoldenEye 007; Perfect Dark; Donkey Kong 64 - Nintendo 64; Diddy Kong Racing; Kirby 64: The Crystal Shards;",
+    "output": [
+      "Nintendo 3DS Compatible with 3DS / 3DS XL / 2DS AC Adapter",
+      "TAKECASE New 3DS XL and 2DS XL Carrying Case - Fits Wall Charger - Includes XL Stylus, 16 Game Storage, Hard Shell and Accessories Pocket (Dark Blue)",
+      "God of War 3 Remastered - PlayStation 4",
+      "MX vs. ATV: Supercross Encore Edition - PlayStation 4",
+      "Shovel Knight - PlayStation 4",
+      "Kirby: Planet Robobot - Nintendo 3DS Standard Edition"
+    ]
+  },
+  {
+    "instruction": "Given the game products that the user purchased before, please recommend a new game product that the user likes to the user.",
+    "input": "The user has purchased the following game products before, with titles as: Fable - Best of Platinum - Xbox (Platinum); Madden NFL 10 - Xbox 360; Fallout 3; Fallout: New Vegas - Ultimate Edition; Tom Clancy's Splinter Cell - Xbox; Jade Empire - Xbox; Star Wars Knights of the Old Republic - Xbox; Halo - Xbox; GoldenEye 007; Sega Alien: Isolation - Xbox 360 Standard Edition; Halo: The Master Chief Collection;  Mass Effect 2 Platinum Hits; Far Cry 4 - Xbox One; Dying Light - Xbox One; Shadow Warrior - Xbox One; Dying Light - PlayStation 4;",
+    "output": [
+      "Resident Evil 7 Biohazard - Xbox One",
+      "Forza Horizon 3 - Xbox One"
+    ]
+  }
+]
